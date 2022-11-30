@@ -1,9 +1,9 @@
 # ihakiralama
 Django ile İHA Kiralama Projesi
 
-Programlama Dili: Python
-Web Framework: Django
-Database: Postgresql
+###### Programlama Dili: Python
+###### Web Framework: Django
+###### Database: Postgresql
 
 ### Ön Bilgi: 
 ##### Uygulama tamamen “Postgresql” üzerinden local’de veri saklaması yapmaktadır. Oluşturulan sistem planlandığı gibi “Heroku” platformu üzerinden yayınlanamamıştır. Bunun sebebi “Heroku”’nun artık ücretsiz bir şekilde “Postgresql” hizmeti vermemesidir. Proje dosyaları içerisinde(“/ihakiralama/settings.py”) “Postgresql” için parametre bilgileri verilmiştir. Local Database’de gerekli ayarlamalar yapılarak uygulama çalıştırılabilir ya da proje dosyaları içinde bulunan “db.sqlite3” dosyası aktif hale getirilerek denenebilir. 
